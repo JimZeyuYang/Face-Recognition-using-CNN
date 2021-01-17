@@ -1,1 +1,3 @@
-# Face-Recognition-using-Neural-Networks
+# Face-Recognition-using-Convolutional-Neural-Networks
+
+Implementation of CNN using MatConvNet library
